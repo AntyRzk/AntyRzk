@@ -23,16 +23,16 @@
 > *"When I die, bury me with all my ice on"*  
 > — Lil Peep
 
-**Mi filosofía de código**: Así como Lil Peep fusionaba géneros, yo fusiono tecnologías para crear algo único.
+**Con musica se programa mejor<3.
 
 El emo rap de Peep es el soundtrack perfecto para:
-- 🌙 **Late-night coding sessions**
-- 💔 **Debugging hasta el amanecer**
-- ✨ **Crear proyectos con alma**
-- 🎨 **Diseñar interfaces con sentimiento**
+-  **Late-night coding sessions**
+-  **Debugging hasta el amanecer**
+-  **Crear proyectos con alma**
+-  **Diseñar interfaces con sentimiento**
 
 **Playlist de desarrollo**:  
-*Star Shopping* | *Awful Things* | *Save That Shit* | *Benz Truck* | *The Brightside*
+*Star Shopping* | *Falling down* | *Save That Shit* | *Benz Truck* | *big city blues*
 
 </div>
 
@@ -46,28 +46,28 @@ El emo rap de Peep es el soundtrack perfecto para:
 
 ```javascript
 const AntyRzk = {
-    location: "México 🇲🇽",
+    location: "México mid",
     role: "Full-Stack Developer",
     passions: ["Web Development", "UI/UX Design", "Open Source"],
     currentFocus: "Building scalable web applications",
-    fuel: "☕ Café + 🍕 Pizza",
-    soundtrack: "🎵 Lil Peep on repeat",
+    fuel: " Pozole",
+    soundtrack: "Lil Peep on repeat",
     learning: ["React", "TypeScript", "Cloud Services"],
-    funFact: "El mejor código se escribe a medianoche con emo rap"
+    funFact: "El mejor código se escribe a medianoche con música"
 };
 ```
 
 <br>
 
-🌟 **Desarrollador Full-Stack** apasionado por crear experiencias web intuitivas y eficientes  
-🎨 **Diseñador UI/UX** que combina estética con funcionalidad  
-📚 **Aprendiz perpetuo** siempre explorando nuevas tecnologías  
-🎵 **Emo rap enthusiast** - Lil Peep es mi musa creativa  
-🚀 **Solucionador de problemas** convirtiendo bugs en features
+**Desarrollador Full-Stack** apasionado por crear experiencias web intuitivas y eficientes  
+**Diseñador UI/UX** que combina estética con funcionalidad  
+**Aprendiz perpetuo** siempre explorando nuevas tecnologías  
+**Emo rap enthusiast** - Lil Peep es mi musa creativa  
+**Solucionador de problemas** convirtiendo bugs en features
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -121,32 +121,23 @@ const AntyRzk = {
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 <div align="center">
 
-<a href="https://github.com/AntyRzk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntyRzk&repo=tu-proyecto-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=F87171&icon_color=F87171" />
-</a>
-<a href="https://github.com/AntyRzk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntyRzk&repo=tu-proyecto-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=F87171&icon_color=F87171" />
-</a>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+
+### 🔨 En Proceso...
+
+**Estoy trabajando en proyectos increíbles que pronto estarán aquí**
+
+> *"Building something amazing takes time"*
+
+ **Próximamente**: Proyectos full-stack, herramientas útiles y experimentos creativos
+
+Mientras tanto, puedes explorar mis repositorios en [GitHub](https://github.com/AntyRzk)
 
 </div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/AntyRzk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntyRzk&repo=tu-proyecto-3&theme=radical&hide_border=true&bg_color=0D1117&title_color=F87171&icon_color=F87171" />
-</a>
-<a href="https://github.com/AntyRzk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntyRzk&repo=tu-proyecto-4&theme=radical&hide_border=true&bg_color=0D1117&title_color=F87171&icon_color=F87171" />
-</a>
-
-</div>
-
 ---
 
 ## 📈 Actividad Reciente
@@ -165,8 +156,6 @@ const AntyRzk = {
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/592915435071078488)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntyRzk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
 
 </div>
 
