@@ -92,9 +92,9 @@ const AntyRzk = {
 
 **El emo rap de Peep es el soundtrack perfecto para:**
 
--  Late-night coding sessions
+- Late-night coding sessions
 - Debugging hasta el amanecer
--  Crear proyectos con alma
+- Crear proyectos con alma
 
 <br>
 
@@ -103,6 +103,14 @@ const AntyRzk = {
 **Star Shopping** • **Falling Down** • **Save That Shit**  
 **Benz Truck** • **Big City Blues** • **Awful Things**  
 **The Brightside** • **White Wine**
+
+<br>
+
+### <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="40"> Referencias Visuales
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" title="Ghost Girl (Lil Peep)" />
+<img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="80" title="Ghost Boy (Lil Peep)" />
+<img src="https://media.giphy.com/media/xT9IgDEI1iZyb2wqo8/giphy.gif" width="80" title="Lil Peep Aesthetic" />
 
 </div>
 
