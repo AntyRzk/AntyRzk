@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Sobre Mí
 
 <img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -34,8 +32,8 @@ const AntyRzk = {
 ```
 
 <br clear="right"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 <table>
   <tr>
@@ -51,8 +49,8 @@ const AntyRzk = {
     </td>
   </tr>
 </table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
 
@@ -68,8 +66,8 @@ const AntyRzk = {
 <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,git,github,vscode,postman" />
 
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 ## <img src="https://media.giphy.com/media/W5kd2CVDpkRCDyyunU/giphy.gif" width="30"> Coding Soundtrack
 
@@ -105,8 +103,8 @@ const AntyRzk = {
 **The Brightside** • **White Wine**
 
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 ## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> Anime List
 
@@ -133,8 +131,8 @@ const AntyRzk = {
 > <img src="https://media.giphy.com/media/hTDQBjD62MRdmdgixv/giphy.gif" width="15"> *"Anime y código: la combinación perfecta para la creatividad"* <img src="https://media.giphy.com/media/hTDQBjD62MRdmdgixv/giphy.gif" width="15">
 
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Estadísticas GitHub
 
@@ -148,8 +146,8 @@ const AntyRzk = {
 <img src="https://github-profile-trophy.vercel.app/?username=AntyRzk&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Proyectos Destacados
 
@@ -168,8 +166,8 @@ const AntyRzk = {
 <img src="https://media.giphy.com/media/3o6ZtluUDuJSanzMk0/giphy.gif" width="20"> Mientras tanto, explora mis repositorios → [**GitHub**](https://github.com/AntyRzk)
 
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 ## <img src="https://media.giphy.com/media/W5kd2CVDpkRCDyyunU/giphy.gif" width="30"> Actividad Reciente
 
@@ -178,8 +176,8 @@ const AntyRzk = {
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AntyRzk&theme=react-dark&hide_border=true&bg_color=0D1117&color=F87171&line=F87171&point=FFFFFF&area=true&custom_title=Contribuciones%20de%20AntyRzk)
 
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Conecta Conmigo
 
@@ -195,8 +193,8 @@ const AntyRzk = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3" width="100%">
 
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> Random Dev Quote
 
@@ -205,8 +203,8 @@ const AntyRzk = {
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
 
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 <div align="center">
 
