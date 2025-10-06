@@ -111,7 +111,7 @@ const AntyRzk = {
 <img src="https://media.giphy.com/media/3oKIPnc6EXLz1kqDCM/giphy.gif" width="20"> Late-night coding sessions  
 <img src="https://media.giphy.com/media/1zKSLWfY7hoYw/giphy.gif" width="20"> Debugging hasta el amanecer  
 <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="20"> Crear proyectos con alma  
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="20"> Diseñar interfaces con sentimiento
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40"> Diseñar interfaces con sentimiento
 
 <br>
 
