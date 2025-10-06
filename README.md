@@ -69,7 +69,7 @@ const AntyRzk = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## <img src="https://media.giphy.com/media/W5kd2CVDpkRCDyyunU/giphy.gif" width="30"> Banda Sonora para Programar
+## Música para Programar
 
 <div align="center">
 
@@ -85,14 +85,6 @@ const AntyRzk = {
 <br>
 
 **Con música se programa mejor**
-
-<br>
-
-**El emo rap de Peep es el soundtrack perfecto para:**
-
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="20"> Sesiones de código nocturnas  
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="20"> Debugging hasta el amanecer  
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="20"> Crear proyectos con alma
 
 <br>
 
@@ -120,6 +112,7 @@ const AntyRzk = {
 - **Chainsaw Man**
 - **Gachiakuta**
 
+<br>
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25"> Favoritos de Todos los Tiempos
 
