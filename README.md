@@ -23,13 +23,13 @@ const AntyRzk = {
     "UI/UX Design",
     "Open Source",
     "Emo Rap Music",
-    "Anime",
+    "Anime"
   ],
   currentFocus: "Scalable web apps",
   fuel: "Pozole",
   soundtrack: "Lil Peep on repeat",
   learning: ["React", "TypeScript", "Cloud"],
-  funFact: "El mejor código se escribe a medianoche con música",
+  funFact: "El mejor código se escribe a medianoche con música"
 };
 ```
 
@@ -59,15 +59,12 @@ const AntyRzk = {
 <div align="center">
 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Frontend
-
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind" />
 
 ### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25"> Backend
-
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb" />
 
 ### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="25"> Design & Tools
-
 <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,git,github,vscode,postman" />
 
 </div>
@@ -76,47 +73,36 @@ const AntyRzk = {
 
 ## <img src="https://media.giphy.com/media/W5kd2CVDpkRCDyyunU/giphy.gif" width="30"> Coding Soundtrack
 
-## <img src="https://media.giphy.com/media/1zKSLWfY7hoYw/giphy.gif" width="30"> Lil Peep Aesthetic Collection
-
 <div align="center">
 
-### 🕊️ Ghost Girl Vibes
+<img align="right" alt="Lil Peep Aesthetic" width="320" src="https://media.giphy.com/media/xT9IgDEI1iZyb2wqo8/giphy.gif">
 
-<img src="https://media.tenor.com/ac61b608aca7d2ebc081edef01552441/tenor.gif" width="300">
+### <img src="https://media.giphy.com/media/1zKSLWfY7hoYw/giphy.gif" width="25"> Lil Peep Vibes
+
 <br>
-> *"When I die, bury me with all my ice on"*
 
----
+> *"When I die, bury me with all my ice on"*  
+> **— Lil Peep** <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="20">
 
-### 👻 Ghost Boy Aura
-
-<img src="https://media1.tenor.com/images/1e5cf5a9f48a4cb0aa3f7b0c0d2593a9/tenor.gif" width="300">
 <br>
-> *"I feel like Ghostboy, trapped in my mind"*
 
----
+**Con música se programa mejor** <img src="https://media.giphy.com/media/1zKSLWfY7hoYw/giphy.gif" width="20">
 
-### 🌙 Beamer Boy Energy
-
-<img src="https://media.tenor.com/KQMS6lAq3JkAAAAd/lil-peep.gif" width="300">
 <br>
-> *“I’m a beamer boy, I need a beamer girl”*
 
----
+**El emo rap de Peep es el soundtrack perfecto para:**
 
-### 💫 Star Shopping Mood
+-  Late-night coding sessions
+- Debugging hasta el amanecer
+-  Crear proyectos con alma
 
-<img src="https://media.tenor.com/kDQblzY0T8EAAAAC/lil-peep-star-shopping.gif" width="300">
 <br>
-> *“Look at the sky tonight, all of the stars have a reason”*
 
----
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25"> Playlist de Desarrollo
 
-### 🕯️ Cry Alone Aesthetic
-
-<img src="https://media.tenor.com/bbdfIuhg2TAAAAAC/lil-peep.gif" width="300">
-<br>
-> *“I hate everyone, I still love you though”*
+**Star Shopping** • **Falling Down** • **Save That Shit**  
+**Benz Truck** • **Big City Blues** • **Awful Things**  
+**The Brightside** • **White Wine**
 
 </div>
 
@@ -130,20 +116,21 @@ const AntyRzk = {
 
 ### <img src="https://media.giphy.com/media/SRkvcNk9BIebnzri7Y/giphy.gif" width="25"> Actualmente Viendo
 
-- <img src="https://media.giphy.com/media/hTDQBjD62MRdmdgixv/giphy.gif" width="15"> **Gachiakuta **
+- <img src="https://media.giphy.com/media/hTDQBjD62MRdmdgixv/giphy.gif" width="15"> **Gachiakuta ** 
+
 
 ### <img src="https://media.giphy.com/media/3o6ZtluUDuJSanzMk0/giphy.gif" width="25"> Favoritos de Todos los Tiempos
 
-| Anime                                | Género                | Rating                                                                                                                                                                                                                                                                                                                                                                                       |
-| ------------------------------------ | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Death Note**                       | Psicológico, Thriller | <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> |
-| **Attack on Titan**                  | Acción, Drama         | <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> |
-| **Steins;Gate**                      | Sci-Fi, Thriller      | <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> |
-| **Code Geass**                       | Mecha, Drama          | <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> |
-| **Demon Slayer**                     | Acción, Sobrenatural  | <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> |
-| **Fullmetal Alchemist: Brotherhood** | Aventura, Fantasía    | <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> |
+| Anime | Género | Rating |
+|-------|--------|--------|
+| **Death Note** | Psicológico, Thriller |<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> |
+| **Attack on Titan** | Acción, Drama |<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> |
+| **Steins;Gate** | Sci-Fi, Thriller |<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> |
+| **Code Geass** | Mecha, Drama |<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> |
+| **Demon Slayer** | Acción, Sobrenatural |<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> |
+| **Fullmetal Alchemist: Brotherhood** | Aventura, Fantasía |<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> |
 
-> <img src="https://media.giphy.com/media/hTDQBjD62MRdmdgixv/giphy.gif" width="15"> _"Anime y código: la combinación perfecta para la creatividad"_ <img src="https://media.giphy.com/media/hTDQBjD62MRdmdgixv/giphy.gif" width="15">
+> <img src="https://media.giphy.com/media/hTDQBjD62MRdmdgixv/giphy.gif" width="15"> *"Anime y código: la combinación perfecta para la creatividad"* <img src="https://media.giphy.com/media/hTDQBjD62MRdmdgixv/giphy.gif" width="15">
 
 </div>
 
@@ -174,7 +161,7 @@ const AntyRzk = {
 
 **Estoy trabajando en proyectos increíbles que pronto estarán aquí**
 
-> _"Building something amazing takes time"_ <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="20">
+> *"Building something amazing takes time"* <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="20">
 
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"> **Próximamente**: Proyectos full-stack, herramientas útiles y experimentos creativos
 
@@ -223,12 +210,12 @@ const AntyRzk = {
 
 <div align="center">
 
-_"El código es poesía, y cada función es un verso"_
+*"El código es poesía, y cada función es un verso"* 
 
 <img src="https://komarev.com/ghpvc/?username=AntyRzk&label=Visitas%20al%20Perfil&color=F87171&style=for-the-badge" alt="Profile Views" />
 
 **¡Gracias por visitar!**  
-_Si te gusta lo que ves, no olvides dejar una_ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> _en mis repos_
+*Si te gusta lo que ves, no olvides dejar una* <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> *en mis repos*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=またね!&fontSize=40&fontColor=ffffff)
 
