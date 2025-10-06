@@ -77,16 +77,16 @@ const AntyRzk = {
 
 <img align="right" alt="Lil Peep Aesthetic" width="320" src="https://media.giphy.com/media/xT9IgDEI1iZyb2wqo8/giphy.gif">
 
-### <img src="https://media.giphy.com/media/1zKSLWfY7hoYw/giphy.gif" width="25"> Lil Peep Vibes
+### Lil Peep Vibes
 
 <br>
 
 > *"When I die, bury me with all my ice on"*  
-> **— Lil Peep** <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="20">
+> **— Lil Peep** 
 
 <br>
 
-**Con música se programa mejor** <img src="https://media.giphy.com/media/1zKSLWfY7hoYw/giphy.gif" width="20">
+**Con música se programa mejor** 
 
 <br>
 
@@ -114,12 +114,12 @@ const AntyRzk = {
 
 <img align="right" alt="Anime Watching" width="300" src="https://media.giphy.com/media/mDFpdL1UxdVZRBN2V4/giphy.gif">
 
-### <img src="https://media.giphy.com/media/SRkvcNk9BIebnzri7Y/giphy.gif" width="25"> Actualmente Viendo
+### Actualmente Viendo
 
-- <img src="https://media.giphy.com/media/hTDQBjD62MRdmdgixv/giphy.gif" width="15"> **Gachiakuta ** 
+- **Gachiakuta ** 
 
 
-### <img src="https://media.giphy.com/media/3o6ZtluUDuJSanzMk0/giphy.gif" width="25"> Favoritos de Todos los Tiempos
+### Favoritos de Todos los Tiempos
 
 | Anime | Género | Rating |
 |-------|--------|--------|
