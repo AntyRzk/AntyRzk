@@ -79,16 +79,18 @@ const AntyRzk = {
 
 ### <img src="https://media.giphy.com/media/1zKSLWfY7hoYw/giphy.gif" width="25"> Lil Peep Vibes
 
+<br>
+
 > *"When I die, bury me with all my ice on"*  
 > **— Lil Peep** <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="20">
-
+<br>
 **Con música se programa mejor** <img src="https://media.giphy.com/media/1zKSLWfY7hoYw/giphy.gif" width="20">
-
+<br>
 **El emo rap de Peep es el soundtrack perfecto para:**
 - <img src="https://media.giphy.com/media/3oKIPnc6EXLz1kqDCM/giphy.gif" width="20"> Late-night coding sessions
 - <img src="https://media.giphy.com/media/1zKSLWfY7hoYw/giphy.gif" width="20"> Debugging hasta el amanecer
 - <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="20"> Crear proyectos con alma
-
+<br>
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25"> Playlist de Desarrollo
 
 **Star Shopping** • **Falling Down** • **Save That Shit**  
