@@ -254,8 +254,8 @@ const AntyRzk = {
 
 <br><br>
 
-**¡Gracias por visitar!** <img src="https://media.giphy.com/media/1zKSLWfY7hoYw/giphy.gif" width="25">  
-*Si te gusta lo que ves, no olvides dejar una* <img src="https://media.giphy.com/media/3o6ZtluUDuJSanzMk0/giphy.gif" width="20"> *en mis repos*
+**¡Gracias por visitar!** 
+*Si te gusta lo que ves, no olvides dejar una*  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> *en mis repos*
 
 <br>
 
