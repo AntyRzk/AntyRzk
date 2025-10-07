@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=AntyRzk&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Full-Stack%20%7C%20Diseñador%20UI/UX%20%7C&descAlignY=60&descAlign=50&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=AntyRzk&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Full-Stack%20%7C%20Diseñador%20UI/UX&descAlignY=60&descAlign=50&descSize=20)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=F87171&center=true&vCenter=true&random=false&width=700&lines=Transformando+ideas+en+c%C3%B3digo+%F0%9F%92%BB;Creando+experiencias+digitales+%E2%9C%A8;Desarrollador+Full-Stack+%F0%9F%9A%80;Apasionado+por+la+tecnolog%C3%ADa+%F0%9F%94%A5;Programando+con+vibes+de+Lil+Peep+%F0%9F%96%A4)](https://git.io/typing-svg)
 
